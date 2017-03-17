@@ -1,3 +1,19 @@
+body:hover {
+  background-image: url("http://cdn1.thecomeback.com/wp-content/uploads/2016/12/lonzo_ball.png");
+  }
+
+#firstparagraph:hover {
+  background-color: orange;
+  font-size: 25px
+}
+
+#secondparagraph:hover {
+  font-family: cursive;
+}
+
+#fourthparagraph:hover {
+  font-weight: bold
+}
 
 .box {
   width: 100px;
@@ -5,8 +21,12 @@
   display: inline-block;
 }
 
+#firstparagraph: hover {
+  color: red;
+}
+
 #one {
-  background-color: red;
+  background-color: blue;
 }
 
 #two {
